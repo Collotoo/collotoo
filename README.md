@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## Hi there 👋
-I am Collin, a Software developer based in Nairobi, Kenya. Currently, i freelance <br>and build ingenious console applications using best software principles<br>I also build full-stack applications that help solve problems. <br>Lets connect and collaborate for amazing projects. 
+I am Collin, a Software developer based in Nairobi, Kenya. Currently, i freelance <br>and build ingenious console applications using best software principles<br>I also build full-stack applications that help solve problems. <br>Lets connect and collaborate in amazing projects. 
 
 
 ## 🌐 Socials:
