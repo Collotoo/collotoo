@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## Hi there 👋
-I am Collin, a Software developer. Currently, i  <br> build ingenious applications<br>
+I am Collin, a Software developer. I <br> build ingenious applications<br>
 <br>Lets connect and collaborate in amazing projects. 
 
 
